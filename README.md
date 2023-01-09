@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, my name is John!</h1>
-<h3 align="center">I am an experienced Technical Support Analyst by trade and a father and a husband at home!</h3>
+<h1 align="center">Hi 👋, my name is <strong>John</strong>!</h1>
+<h3 align="center">As a Technical Support Analyst, I have a lot of experience in my field. In my personal life, I am a father and a husband.</h3>
 
-- 🌱 I’m currently learning **Java, JavaScript and JavaScript Frameworks & Libraries**
+🌱 I’m currently learning **Java, JavaScript and JavaScript Frameworks & Libraries**
 
-- 💬 Ask me about **HTML and CSS**
+💬 Ask me about **HTML and CSS**
 
-- 📫 How to reach me **johncastaneda08@yahoo.com**
+📫 How to reach me **johncastaneda08@yahoo.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/john-christopher-castaneda-18816659/](https://www.linkedin.com/in/john-christopher-castaneda-18816659/)
+📄 Know about my experiences -> [Here is a link to my LinkedIn Profile.](https://www.linkedin.com/in/john-christopher-castaneda-18816659/ "Link to my LinkedIn Profile.")
 
-- ⚡ Fun fact **I can see the past and the future (but only when I am looking at a calendar).**
+⚡ Fun fact -> I can see the past and the future (but only when I am looking at a :calendar:calendar).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
