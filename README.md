@@ -23,3 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johncastaneda08&" alt="johncastaneda08" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johncastaneda08)](https://github.com/anuraghazra/github-readme-stats)
