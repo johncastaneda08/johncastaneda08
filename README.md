@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is <strong>John</strong>!</h1>
-<h3 align="center">As a Technical Support Analyst, I have years of experience in troubleshooting and resolving complex technical issues and providing exceptional customer service by responding to customers' queries promptly. I am also a loving father (or at least I try to be) and a reliable husband.</h3>
+<h3 align="center">As a Lead Technical Support Engineer, I have years of experience in troubleshooting and resolving complex technical issues and providing exceptional customer service by responding to customers' queries promptly. I am also a loving father (or at least I try to be) and a reliable husband.</h3>
 
 🌱 I’m currently learning **Python, JavaScript and JavaScript Frameworks & Libraries**
 
